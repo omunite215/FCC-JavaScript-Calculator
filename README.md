@@ -1,6 +1,6 @@
 ## Welcome to My Repository!!
 
-### This is a Markdown Previewer Project on React!!
+### This is a part of Free Code Camp Project : JavaScript Calculator Project on React!!
 
 ### I faced problems in making logic of : 
 - dot elimination in case of consecutive input decimals.
@@ -63,6 +63,13 @@ Formula/Expression Logic: 32.5
 You can build your project by using this CodePen template and clicking Save to create your own pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
 
 Once you're done, submit the URL to your working project with all its tests passing.
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/78680563/214765405-cc734a03-8b4b-4051-be25-77d4b088ea69.png" alt="Om's Logo Image"/>
+</p>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
