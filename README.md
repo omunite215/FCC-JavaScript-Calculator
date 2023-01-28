@@ -10,7 +10,7 @@
       
 [DwinaTech](https://www.youtube.com/@DwinaTech-coding)
 
-The project is hosted on Netlify : https://fccmarkdownpreviewerbyom.netlify.app/
+The project is hosted on Netlify : https://javascriptcalculatorbyom.netlify.app/
 
 I am not removing react's readme files because, it will help you using react as well. Thanks!!
 
